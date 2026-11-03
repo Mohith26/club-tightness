@@ -1,0 +1,812 @@
+[
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 0,
+  "true_mi": 2.0,
+  "estimate": 1.462682425260544,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 1.3344039916992188
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 0,
+  "true_mi": 4.0,
+  "estimate": 3.4546963486671447,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 2.587373733520508
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 0,
+  "true_mi": 6.0,
+  "estimate": 5.7992752742767335,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 3.822000503540039
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 0,
+  "true_mi": 8.0,
+  "estimate": 8.71188958644867,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 4.980710983276367
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 0,
+  "true_mi": 10.0,
+  "estimate": 12.270671182632446,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 6.17686653137207
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 1,
+  "true_mi": 2.0,
+  "estimate": 1.4204922724962235,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 1.3777828216552734
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 1,
+  "true_mi": 4.0,
+  "estimate": 3.4031743469238283,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 2.552633285522461
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 1,
+  "true_mi": 6.0,
+  "estimate": 5.93477802658081,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 3.815134048461914
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 1,
+  "true_mi": 8.0,
+  "estimate": 8.764673997879028,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 5.059579849243164
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 1,
+  "true_mi": 10.0,
+  "estimate": 12.323364667892456,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 6.177900314331055
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 2,
+  "true_mi": 2.0,
+  "estimate": 1.465603761434555,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 1.3863582611083984
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 2,
+  "true_mi": 4.0,
+  "estimate": 3.4716154012680054,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 2.580930709838867
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 2,
+  "true_mi": 6.0,
+  "estimate": 5.753321729660034,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 3.8159217834472656
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 2,
+  "true_mi": 8.0,
+  "estimate": 8.705770197868347,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 4.997159957885742
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 15,
+  "seed": 2,
+  "true_mi": 10.0,
+  "estimate": 12.1213541431427,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 6.256418228149414
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 0,
+  "true_mi": 2.0,
+  "estimate": 4.095481357097626,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.17116355895996094
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 0,
+  "true_mi": 4.0,
+  "estimate": 9.241316418647767,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.19464111328125
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 0,
+  "true_mi": 6.0,
+  "estimate": 15.558806865692139,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.2729949951171875
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 0,
+  "true_mi": 8.0,
+  "estimate": 23.15661030578613,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.30338287353515625
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 0,
+  "true_mi": 10.0,
+  "estimate": 32.48704036331177,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.28908348083496094
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 1,
+  "true_mi": 2.0,
+  "estimate": 4.126188801765442,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.17501449584960938
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 1,
+  "true_mi": 4.0,
+  "estimate": 9.22389922618866,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.2141094207763672
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 1,
+  "true_mi": 6.0,
+  "estimate": 15.68844553565979,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.21863174438476562
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 1,
+  "true_mi": 8.0,
+  "estimate": 23.14124898147583,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.26787376403808594
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 1,
+  "true_mi": 10.0,
+  "estimate": 32.43412530899048,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.3045654296875
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 2,
+  "true_mi": 2.0,
+  "estimate": 4.117509022712707,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.1862964630126953
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 2,
+  "true_mi": 4.0,
+  "estimate": 9.328680097579957,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.1966876983642578
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 2,
+  "true_mi": 6.0,
+  "estimate": 15.443518423080445,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.22542381286621094
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 2,
+  "true_mi": 8.0,
+  "estimate": 23.225613105773927,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.205230712890625
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 64,
+  "seed": 2,
+  "true_mi": 10.0,
+  "estimate": 32.43240460586548,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.3001976013183594
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 0,
+  "true_mi": 2.0,
+  "estimate": 4.115485476016998,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.16939163208007812
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 0,
+  "true_mi": 4.0,
+  "estimate": 9.320775665283204,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.18430519104003906
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 0,
+  "true_mi": 6.0,
+  "estimate": 15.66511902999878,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.1992778778076172
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 0,
+  "true_mi": 8.0,
+  "estimate": 23.30322155380249,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.2214202880859375
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 0,
+  "true_mi": 10.0,
+  "estimate": 32.94381299972534,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.24492454528808594
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 1,
+  "true_mi": 2.0,
+  "estimate": 4.144238800048828,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.16948509216308594
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 1,
+  "true_mi": 4.0,
+  "estimate": 9.318426901817322,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.1689472198486328
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 1,
+  "true_mi": 6.0,
+  "estimate": 15.788675924301147,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.1915302276611328
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 1,
+  "true_mi": 8.0,
+  "estimate": 23.274691131591798,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.2540416717529297
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 1,
+  "true_mi": 10.0,
+  "estimate": 32.923878269195555,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.2813072204589844
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 2,
+  "true_mi": 2.0,
+  "estimate": 4.1062899599075315,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.20430564880371094
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 2,
+  "true_mi": 4.0,
+  "estimate": 9.372553802490234,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.20270538330078125
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 2,
+  "true_mi": 6.0,
+  "estimate": 15.544490823745727,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.24014854431152344
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 2,
+  "true_mi": 8.0,
+  "estimate": 23.358050128936767,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.19192886352539062
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": 256,
+  "seed": 2,
+  "true_mi": 10.0,
+  "estimate": 32.88383848953247,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.295135498046875
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 0,
+  "true_mi": 2.0,
+  "estimate": 4.339360301017761,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.12742042541503906
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 0,
+  "true_mi": 4.0,
+  "estimate": 9.656725487709046,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.12825393676757812
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 0,
+  "true_mi": 6.0,
+  "estimate": 16.213705377578734,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.11625099182128906
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 0,
+  "true_mi": 8.0,
+  "estimate": 24.16543855667114,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.116363525390625
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 0,
+  "true_mi": 10.0,
+  "estimate": 33.319988636016845,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.1036224365234375
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 1,
+  "true_mi": 2.0,
+  "estimate": 4.3742187261581424,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.11475181579589844
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 1,
+  "true_mi": 4.0,
+  "estimate": 9.638001091003417,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.11668586730957031
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 1,
+  "true_mi": 6.0,
+  "estimate": 16.33735321044922,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.11622047424316406
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 1,
+  "true_mi": 8.0,
+  "estimate": 24.146985828399657,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.1280498504638672
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 1,
+  "true_mi": 10.0,
+  "estimate": 33.22498355102539,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.11672592163085938
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 2,
+  "true_mi": 2.0,
+  "estimate": 4.354788767337799,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.13132858276367188
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 2,
+  "true_mi": 4.0,
+  "estimate": 9.715727157592774,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.1177825927734375
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 2,
+  "true_mi": 6.0,
+  "estimate": 16.08714975166321,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.13434982299804688
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 2,
+  "true_mi": 8.0,
+  "estimate": 24.21684906768799,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.09776496887207031
+ },
+ {
+  "model": "CLUB",
+  "hidden_size": null,
+  "seed": 2,
+  "true_mi": 10.0,
+  "estimate": 33.200310810089114,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.11011886596679688
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 0,
+  "true_mi": 2.0,
+  "estimate": 1.4628482378721237,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 1.3344039916992188
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 0,
+  "true_mi": 4.0,
+  "estimate": 3.441871500492096,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 2.587373733520508
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 0,
+  "true_mi": 6.0,
+  "estimate": 5.798880121231079,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 3.822000503540039
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 0,
+  "true_mi": 8.0,
+  "estimate": 8.69526596736908,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 4.980710983276367
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 0,
+  "true_mi": 10.0,
+  "estimate": 12.292241962432861,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 6.17686653137207
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 1,
+  "true_mi": 2.0,
+  "estimate": 1.4256645272970199,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 1.3777828216552734
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 1,
+  "true_mi": 4.0,
+  "estimate": 3.404935146331787,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 2.552633285522461
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 1,
+  "true_mi": 6.0,
+  "estimate": 5.880920822143555,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 3.815134048461914
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 1,
+  "true_mi": 8.0,
+  "estimate": 8.720068465232849,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 5.059579849243164
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 1,
+  "true_mi": 10.0,
+  "estimate": 12.304153034210206,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 6.177900314331055
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 2,
+  "true_mi": 2.0,
+  "estimate": 1.4656231256723404,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 1.3863582611083984
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 2,
+  "true_mi": 4.0,
+  "estimate": 3.502713200569153,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 2.580930709838867
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 2,
+  "true_mi": 6.0,
+  "estimate": 5.740768650054932,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 3.8159217834472656
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 2,
+  "true_mi": 8.0,
+  "estimate": 8.726434630393982,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 4.997159957885742
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 15,
+  "seed": 2,
+  "true_mi": 10.0,
+  "estimate": 12.132848703384399,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 6.256418228149414
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 0,
+  "true_mi": 2.0,
+  "estimate": 4.112350723743439,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.16939163208007812
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 0,
+  "true_mi": 4.0,
+  "estimate": 9.35871234512329,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.18430519104003906
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 0,
+  "true_mi": 6.0,
+  "estimate": 15.649515909194946,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.1992778778076172
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 0,
+  "true_mi": 8.0,
+  "estimate": 23.242981746673586,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.2214202880859375
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 0,
+  "true_mi": 10.0,
+  "estimate": 32.9707294960022,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.24492454528808594
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 1,
+  "true_mi": 2.0,
+  "estimate": 4.140356200218201,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.16948509216308594
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 1,
+  "true_mi": 4.0,
+  "estimate": 9.290010153770448,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.1689472198486328
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 1,
+  "true_mi": 6.0,
+  "estimate": 15.84077999305725,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.1915302276611328
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 1,
+  "true_mi": 8.0,
+  "estimate": 23.375479293823243,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.2540416717529297
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 1,
+  "true_mi": 10.0,
+  "estimate": 32.89883041000366,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.2813072204589844
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 2,
+  "true_mi": 2.0,
+  "estimate": 4.111293978214264,
+  "oracle_club": 4.428055163203397,
+  "q_loglik_gap": 0.20430564880371094
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 2,
+  "true_mi": 4.0,
+  "estimate": 9.393372630119323,
+  "oracle_club": 9.836493952825407,
+  "q_loglik_gap": 0.20270538330078125
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 2,
+  "true_mi": 6.0,
+  "estimate": 15.537371789932251,
+  "oracle_club": 16.442376007810182,
+  "q_loglik_gap": 0.24014854431152344
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 2,
+  "true_mi": 8.0,
+  "estimate": 23.39216410827637,
+  "oracle_club": 24.510818569849356,
+  "q_loglik_gap": 0.19192886352539062
+ },
+ {
+  "model": "CLUBSample",
+  "hidden_size": 256,
+  "seed": 2,
+  "true_mi": 10.0,
+  "estimate": 32.951840599060056,
+  "oracle_club": 34.3656365691809,
+  "q_loglik_gap": 0.295135498046875
+ }
+]
